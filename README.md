@@ -1,1 +1,1 @@
-Project as part of IE 630: Simulation Modelling and Analysis at IIT Bombay
+Project as part of IE 630: Simulation Modelling and Analysis at IIT Bombay. The project aims to compare different order pricking strategies for an imaginary warehouse designed partially with data from https://data.mendeley.com/datasets/pf2w725pw3/1.
